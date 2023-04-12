@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+body{
+	font-family: sans-serif;
+}
+h1 {
+	text-align: center;
+}
+
+span {
+	color: blue;
+}
+
+.inputCell {
+	display: block;
+	width: 100%;
+}
+
+#submit {
+	background: blue;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+	border: none;
+}
